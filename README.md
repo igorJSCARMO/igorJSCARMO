@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Igor CARMO
 - 👀 I’m interested in Computer vision, Photogrammetry, IOT.
 - 🌱 I’m currently learning Python and OpenCV
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Technological development for application in mechanical engineering
 - 📫 How to reach me: igor.junior@gmail.com
 
 <!---
